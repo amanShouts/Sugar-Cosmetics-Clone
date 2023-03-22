@@ -71,10 +71,10 @@ Deployment Link - <a href="https://sugar-cosmetics-clone-masai-1.netlify.app/"> 
 
 <h2> Team </h2>
 <ul>
-<li>Rushikesh Mali <a href="https://github.com/rushikesh226" > <img style="width=20px ; color=white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
-<li>Aman Singh <a href="https://github.com/amanShouts/" > <img style="width=20px ; color=white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
-<li>Akshata Ganbote <a href="https://github.com/AkshataGanbote" > <img style="width=20px ; color=white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
-<li>Shubham Sharma <a href="" > <img style="width=20px ; color=white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Rushikesh Mali <a href="https://github.com/rushikesh226" > <img style="width : 20px ; color : white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Aman Singh <a href="https://github.com/amanShouts/" > <img style="width:20px ; color:white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Akshata Ganbote <a href="https://github.com/AkshataGanbote" > <img style="width:20px ; color:white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Shubham Sharma <a href="" > <img style="width:20px ; color:white ;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
 </ul>
 <br> 
 <h3> Thank you for reading ! :) </h3>
