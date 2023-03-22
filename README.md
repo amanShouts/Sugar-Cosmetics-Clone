@@ -17,7 +17,7 @@ We wanted to captrue the user's actions and flow, right from when the user lands
 <i> <b> User Path followed - </b> </i>
 <br>
 
-<p style="display : flex ; align-items : center ; flex-wrap: wrap;">
+<div style="display : flex ; align-items : center ; flex-wrap: wrap;">
 <span> Home page (search products) </span>
 <img style="width:20px ; background-color:white; color : white;" src="./forward_arrow.png" />
  <span> Product List Page </span>
@@ -31,7 +31,7 @@ We wanted to captrue the user's actions and flow, right from when the user lands
 <span> Payment </span>
  <img style="width:20px ; background-color:white" src="./forward_arrow.png" />
 <span> Order Status (Confirmed/Processing/Rejected) </span>
-</p>
+</div>
 
 
 <h2>Tech Stack</h2>
