@@ -5,7 +5,7 @@
 <h1 style="display : flex ; justify-content : space-between ; align-items : center " >Sugar Cosmetics Clone - <a href="https://sugar-cosmetics-clone-masai-1.netlify.app/" >Live</a> </h1> 
 
 <h2> About Sugar cosmetics </h2>
-Sugar Cosmetics is an aggregator and marketplace for beauty and cosmetics products in India, enabling easy accessibility at affordable prices. 
+Sugar Cosmetics is an aggregator and marketplace for beauty and cosmetics products in India, enabling easy accessibility of beauty products at affordable prices. 
 
 
 <h2>Goal</h2>
