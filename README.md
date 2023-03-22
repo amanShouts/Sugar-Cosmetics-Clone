@@ -2,19 +2,51 @@
 
 <h1>Sugar Cosmetics Clone </h1> 
 
+<h2> About Sugar cosmetics </h2>
+Sugar Cosmetics is an aggregator and marketplace for beauty and cosmetics products in India, enabling easy accessibility at affordable prices. 
+
+
 <h2>Goal</h2>
+Our goal was to create a picture perfect replica of Sugar Cosmetics by developing pages that formed the main user path of the website. 
+<br>
+<i>User Path followed </i>
+Home page (search products) -> Product List Page -> Individual PRoduct Page -> Add to cart -> Cart -> Payment -> Order Status (Confirmed/Processing/Rejected) 
+<br>
+We wanted to captrue the user's actions and flow, right from when the user lands on the home page to when they successfully place their order. 
 
 <h2>Tech Stack</h2>
+React | HTML | CSS 
+
+<h2> Concepts deployed</h2>
+<ul>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Chakra UI</li>
+    <li>Context API</li>
+    <li>HTML & CSS</li>
+    <li>Mock Server</li>
+</ul>
 
 <h2>Pages Implemented</h2>
+<ul>
+    <li>Home Page</li>
+    <li>Product List Page</li>
+    <li>Individual Product Page</li>
+    <li>Cart</li>
+    <li>Payment Page</li>
+    <li>Orders Page</li>
+</ul>
 
-<h2>Learnings</h2>
-
+<h2> Project Snapshots </h2>
+<p> 1. </p>
 <img src="./readme_pic_1.png" />
+<p> 2. </p>
 <img src="./readme_pic_2.png" />
+<p> 3. </p>
 <img src="screenshot4.png" />
 
-<h2></h2>
+<h3> Thank you for reading ! :) </h3>
+
 
 
 
