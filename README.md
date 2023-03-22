@@ -18,17 +18,17 @@ We wanted to captrue the user's actions and flow, right from when the user lands
 
 <div style="display : flex ; align-items : center ; flex-wrap: wrap;">
 <span> Home page (search products) </span>
-<img style="width:20px ; background-color:white; color : white;" src="./forward_arrow.png" />
+<img style="width:20px ;color : white;" src="./forward_arrow.png" />
  <span> Product List Page </span>
-<img style="width:20px ; background-color:white" src="./forward_arrow.png" />
+<img style="width:20px ; color:white" src="./forward_arrow.png" />
  <span> Individual Product Page </span>
- <img style="width:20px ; background-color:white" src="./forward_arrow.png" />
+ <img style="width:20px ; color:white" src="./forward_arrow.png" />
 <span> Add to cart </span>
-<img style="width:20px ; background-color:white" src="./forward_arrow.png" />
+<img style="width:20px ; color:white" src="./forward_arrow.png" />
 <span> Cart </span>
-<img style="width:20px ; background-color:white" src="./forward_arrow.png" />
+<img style="width:20px ; color:white" src="./forward_arrow.png" />
 <span> Payment </span>
- <img style="width:20px ; background-color:white" src="./forward_arrow.png" />
+ <img style="width:20px ; color:white" src="./forward_arrow.png" />
 <span> Order Status (Confirmed/Processing/Rejected) </span>
 </div>
 
