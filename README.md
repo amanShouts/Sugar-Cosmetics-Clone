@@ -16,11 +16,13 @@ We wanted to captrue the user's actions and flow, right from when the user lands
 <br>
 <i> <b> User Path followed - </b> </i>
 <br>
+<p style="display : flex">
 Home page (search products) 
 <img style="width:20px ; background-color:white" src="./forward_arrow.png" />
  Product List Page 
 <img background-color = "white" src="./forward_arrow.png" />
  Individual Product Page > Add to cart > Cart > Payment > Order Status (Confirmed/Processing/Rejected) 
+ </p>
 
 
 <h2>Tech Stack</h2>
