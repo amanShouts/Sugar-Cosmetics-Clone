@@ -2,7 +2,7 @@
 
 <img align="center" width = "300px" src="https://cdn.sanity.io/images/gxmub2ol/production/98a9ebae1456c75c727d5fab8c934dae908a144c-1493x380.png" /> 
 
-<h1 style="display : flex ; justifi-content : space-between ; align-items : center " >Sugar Cosmetics Clone  <a href="https://sugar-cosmetics-clone-masai-1.netlify.app/" >Live</a> </h1> 
+<h1 style="display : flex ; justify-content : space-between ; align-items : center " >Sugar Cosmetics Clone - <a href="https://sugar-cosmetics-clone-masai-1.netlify.app/" >Live</a> </h1> 
 
 <h2> About Sugar cosmetics </h2>
 Sugar Cosmetics is an aggregator and marketplace for beauty and cosmetics products in India, enabling easy accessibility at affordable prices. 
@@ -10,7 +10,6 @@ Sugar Cosmetics is an aggregator and marketplace for beauty and cosmetics produc
 
 <h2>Goal</h2>
 Our goal was to create a picture perfect replica of Sugar Cosmetics by developing pages that formed the main user path of the website. 
-<br>
 We wanted to captrue the user's actions and flow, right from when the user lands on the home page to when they successfully place their order. 
 <br>
 <br>
@@ -35,9 +34,9 @@ We wanted to captrue the user's actions and flow, right from when the user lands
 
 
 <h2>Tech Stack</h2>
-React | HTML | CSS 
+React | Redux | HTML | CSS 
 
-<h2> Concepts deployed</h2>
+<h2> Concepts Utilized</h2>
 <ul>
     <li>React</li>
     <li>Redux</li>
@@ -55,6 +54,7 @@ React | HTML | CSS
     <li>Cart</li>
     <li>Payment Page</li>
     <li>Orders Page</li>
+    <li>Signup/Login</li>
 </ul>
 
 <h2> Project Snapshots </h2>
@@ -65,6 +65,18 @@ React | HTML | CSS
 <p> 3. Cart</p>
 <img src="screenshot4.png" />
 
+<br>
+Deployment Link - <a href="https://sugar-cosmetics-clone-masai-1.netlify.app/"> Sugar Cosmetics Clone </a>
+<br>
+
+<h2> Team </h2>
+<ul>
+<li>Rushikesh Mali <a href="https://github.com/rushikesh226" > <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Aman Singh <a href="https://github.com/amanShouts/" > <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Akshata Ganbote <a href="https://github.com/AkshataGanbote" > <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+<li>Shubham Sharma <a href="" > <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" /> </a> </li>
+</ul>
+<br> 
 <h3> Thank you for reading ! :) </h3>
 
 
