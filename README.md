@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
 <img align="center" width = "300px" src="https://cdn.sanity.io/images/gxmub2ol/production/98a9ebae1456c75c727d5fab8c934dae908a144c-1493x380.png" /> 
 
 <h1 style="display : flex ; justifi-content : space-between ; align-items : center " >Sugar Cosmetics Clone  <a href="https://sugar-cosmetics-clone-masai-1.netlify.app/" >Live</a> </h1> 
@@ -12,9 +14,18 @@ Our goal was to create a picture perfect replica of Sugar Cosmetics by developin
 We wanted to captrue the user's actions and flow, right from when the user lands on the home page to when they successfully place their order. 
 <br>
 <br>
-<i> <b> User Path followed </b> </i>
-Home page (search products) -> Product List Page -> Individual Product Page -> Add to cart -> Cart -> Payment -> Order Status (Confirmed/Processing/Rejected) 
+<i> <b> User Path followed - </b> </i>
 <br>
+Home page (search products) 
+<span class="material-symbols-outlined">
+arrow_forward_ios
+</span>
+ Product List Page 
+ <span class="material-symbols-outlined">
+arrow_forward_ios
+</span>
+ Individual Product Page > Add to cart > Cart > Payment > Order Status (Confirmed/Processing/Rejected) 
+
 
 <h2>Tech Stack</h2>
 React | HTML | CSS 
