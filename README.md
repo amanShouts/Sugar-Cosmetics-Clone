@@ -10,9 +10,9 @@
 
 <h2>Learnings</h2>
 
-<img src=""/>
-<img src=""/>
-<img src=""/>
+<img src="./readme_pic_1" />
+<img src="./readme_pic_2" />
+<img src="screenshot4" />
 
 <h2></h2>
 
